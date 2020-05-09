@@ -46,9 +46,6 @@ Por último, el proceso se repite con el fin de conseguir un error promedio.
 - Aprendizaje Automático Aplicado
 
 ## MÉTODOS, MATERIALES Y TECNOLOGÍAS DE USO POTENCIAL
-Los datos están disponibles a través del un enlace de AWS, en el que consiste
-un archivo .RAR de 40 gb, por lo que se recomienda tener suficiente espacio
-en el disco.
 Los datos se deberán disponer de manera que se pueda implementar en los
 algoritmos, dipsoniéndolo en matriz con ayuda de Numpy o de dataframe con
 la ayuda de Pandas.
