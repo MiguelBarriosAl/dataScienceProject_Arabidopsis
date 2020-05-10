@@ -47,10 +47,10 @@ Por último, el proceso se repite con el fin de conseguir un error promedio.
 
 ## MÉTODOS, MATERIALES Y TECNOLOGÍAS DE USO POTENCIAL
 Los datos se deberán disponer de manera que se pueda implementar en los
-algoritmos, dipsoniéndolo en matriz con ayuda de Numpy o de dataframe con
+algoritmos, disponiéndolos en matriz con ayuda de Numpy o de dataframe con
 la ayuda de Pandas.
 Para este proyecto se pretende trabajar en su mayoría bajo lenguaje Python,
-con librerías de Machine Learning y TensorFlow.
+con librerías de Machine Learning.
 Con la ayuda de las librerías se estudiará e implementará los algoritmos de
 Machine Learning que presente mejores resultados a través de medidas de
 calidad del algoritmo.
